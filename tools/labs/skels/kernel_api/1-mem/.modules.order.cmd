@@ -1,0 +1,1 @@
+cmd_/home/l/linux/tools/labs/skels/./kernel_api/1-mem/modules.order := {   echo /home/l/linux/tools/labs/skels/./kernel_api/1-mem/mem.ko; :; } | awk '!x[$$0]++' - > /home/l/linux/tools/labs/skels/./kernel_api/1-mem/modules.order

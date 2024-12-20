@@ -1,0 +1,3 @@
+0x00000000	task_info_add_for_current	/home/l/linux/tools/labs/skels/./kernel_api/6-list-sync/list-sync	EXPORT_SYMBOL	
+0x00000000	task_info_remove_expired	/home/l/linux/tools/labs/skels/./kernel_api/6-list-sync/list-sync	EXPORT_SYMBOL	
+0x00000000	task_info_print_list	/home/l/linux/tools/labs/skels/./kernel_api/6-list-sync/list-sync	EXPORT_SYMBOL	

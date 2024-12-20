@@ -1,0 +1,1 @@
+cmd_/home/l/linux/tools/labs/skels/./deferred_work/3-4-5-deferred/kernel/modules.order := {   echo /home/l/linux/tools/labs/skels/./deferred_work/3-4-5-deferred/kernel/deferred.ko; :; } | awk '!x[$$0]++' - > /home/l/linux/tools/labs/skels/./deferred_work/3-4-5-deferred/kernel/modules.order

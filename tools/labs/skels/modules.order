@@ -1,0 +1,12 @@
+/home/l/linux/tools/labs/skels/./kernel_api/3-memory/memory.ko
+/home/l/linux/tools/labs/skels/./kernel_api/2-sched-spin/sched-spin.ko
+/home/l/linux/tools/labs/skels/./kernel_api/1-mem/mem.ko
+/home/l/linux/tools/labs/skels/./kernel_api/6-list-sync/list-sync.ko
+/home/l/linux/tools/labs/skels/./kernel_modules/1-2-test-mod/hello_mod.ko
+/home/l/linux/tools/labs/skels/./deferred_work/1-2-timer/timer.ko
+/home/l/linux/tools/labs/skels/./deferred_work/3-4-5-deferred/kernel/deferred.ko
+/home/l/linux/tools/labs/skels/./device_drivers/kernel/so2_cdev.ko
+/home/l/linux/tools/labs/skels/./device_drivers/extra/char-driver-lin/modul.ko
+/home/l/linux/tools/labs/skels/./filesystems/myfs/myfs.ko
+/home/l/linux/tools/labs/skels/./interrupts/kbd.ko
+/home/l/linux/tools/labs/skels/./networking/1-2-netfilter/kernel/filter.ko

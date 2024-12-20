@@ -1,0 +1,1 @@
+cmd_/home/l/linux/tools/labs/skels/./kernel_modules/1-2-test-mod/hello_mod.ko := ld -r -m elf_i386 --build-id=sha1  -T scripts/module.lds -o /home/l/linux/tools/labs/skels/./kernel_modules/1-2-test-mod/hello_mod.ko /home/l/linux/tools/labs/skels/./kernel_modules/1-2-test-mod/hello_mod.o /home/l/linux/tools/labs/skels/./kernel_modules/1-2-test-mod/hello_mod.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_/home/l/linux/tools/labs/skels/./networking/1-2-netfilter/kernel/filter.ko := ld -r -m elf_i386 --build-id=sha1  -T scripts/module.lds -o /home/l/linux/tools/labs/skels/./networking/1-2-netfilter/kernel/filter.ko /home/l/linux/tools/labs/skels/./networking/1-2-netfilter/kernel/filter.o /home/l/linux/tools/labs/skels/./networking/1-2-netfilter/kernel/filter.mod.o;  true

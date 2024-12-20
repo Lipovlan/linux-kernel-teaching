@@ -1,0 +1,1 @@
+cmd_/home/l/linux/tools/labs/skels/./kernel_api/2-sched-spin/modules.order := {   echo /home/l/linux/tools/labs/skels/./kernel_api/2-sched-spin/sched-spin.ko; :; } | awk '!x[$$0]++' - > /home/l/linux/tools/labs/skels/./kernel_api/2-sched-spin/modules.order

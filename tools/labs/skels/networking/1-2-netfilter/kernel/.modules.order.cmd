@@ -1,0 +1,1 @@
+cmd_/home/l/linux/tools/labs/skels/./networking/1-2-netfilter/kernel/modules.order := {   echo /home/l/linux/tools/labs/skels/./networking/1-2-netfilter/kernel/filter.ko; :; } | awk '!x[$$0]++' - > /home/l/linux/tools/labs/skels/./networking/1-2-netfilter/kernel/modules.order

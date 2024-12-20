@@ -1,0 +1,1 @@
+cmd_/home/l/linux/tools/labs/skels/./filesystems/myfs/myfs.ko := ld -r -m elf_i386 --build-id=sha1  -T scripts/module.lds -o /home/l/linux/tools/labs/skels/./filesystems/myfs/myfs.ko /home/l/linux/tools/labs/skels/./filesystems/myfs/myfs.o /home/l/linux/tools/labs/skels/./filesystems/myfs/myfs.mod.o;  true
